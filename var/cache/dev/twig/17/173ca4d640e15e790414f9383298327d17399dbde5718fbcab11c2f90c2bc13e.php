@@ -396,6 +396,6 @@ class __TwigTemplate_dc9be6e4e0cf93dab0ec3577715bfdc60661606984e45540fa5a778f943
 
 </body>
 </html>
-", "@ApiPlatform/SwaggerUi/index.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
+", "@ApiPlatform/SwaggerUi/index.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
     }
 }

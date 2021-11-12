@@ -191,6 +191,6 @@ class __TwigTemplate_7e82431661dc683e994327af61ae1ba9ca8b241284b09a14f3aa484f88d
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/templates/base.html.twig");
+", "base.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/templates/base.html.twig");
     }
 }

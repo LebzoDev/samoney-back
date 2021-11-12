@@ -139,6 +139,6 @@ class __TwigTemplate_2334d1a4ac072b6c8c089bf52d26c9e58568b6401811c7249100f5bca8d
 
 </body>
 </html>
-", "@ApiPlatform/Graphiql/index.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/Graphiql/index.html.twig");
+", "@ApiPlatform/Graphiql/index.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/Graphiql/index.html.twig");
     }
 }

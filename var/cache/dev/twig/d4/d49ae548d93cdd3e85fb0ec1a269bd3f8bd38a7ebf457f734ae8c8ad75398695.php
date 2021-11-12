@@ -171,6 +171,6 @@ class __TwigTemplate_ba2b1ed5c1d931a5a8883f86b19f195f646a05a5ecac7017fbaa8d92b0d
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
     }
 }
