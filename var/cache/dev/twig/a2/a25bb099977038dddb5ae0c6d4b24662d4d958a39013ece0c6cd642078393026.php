@@ -1349,6 +1349,6 @@ class __TwigTemplate_30ba003fbed050bb3609470180f6c26059cbf80d192257581b878341668
         <span>{{ route|default(controller) }}</span>
     {%- endif %}
 {% endmacro %}
-", "@WebProfiler/Collector/request.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
+", "@WebProfiler/Collector/request.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
     }
 }

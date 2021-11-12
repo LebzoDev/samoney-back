@@ -111,6 +111,6 @@ class __TwigTemplate_19459172ebf9d3360ed04ebfb020281001df1f006e3a871b345c80e2aaa
         Sfjs.loadToolbar('{{ token }}');
     })();
 /*]]>*/</script>
-", "@WebProfiler/Profiler/toolbar_js.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/toolbar_js.html.twig");
+", "@WebProfiler/Profiler/toolbar_js.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/toolbar_js.html.twig");
     }
 }

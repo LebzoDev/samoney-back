@@ -1186,6 +1186,6 @@ div.sf-toolbar .sf-toolbar-block a:hover {
         display: none !important;
     }
 }
-", "@WebProfiler/Profiler/toolbar.css.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/toolbar.css.twig");
+", "@WebProfiler/Profiler/toolbar.css.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/toolbar.css.twig");
     }
 }

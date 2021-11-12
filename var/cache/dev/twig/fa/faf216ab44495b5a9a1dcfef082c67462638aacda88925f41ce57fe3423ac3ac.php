@@ -227,6 +227,6 @@ class __TwigTemplate_d80e04a086438343cff9311a115e1fcd237b9dad0b94e341432485eb22b
         </div>
     {% endif %}
 {% endblock %}
-", "@WebProfiler/Collector/exception.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.html.twig");
+", "@WebProfiler/Collector/exception.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.html.twig");
     }
 }

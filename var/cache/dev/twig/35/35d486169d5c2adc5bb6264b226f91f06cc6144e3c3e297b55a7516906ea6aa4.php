@@ -1720,6 +1720,6 @@ class __TwigTemplate_6ec60ca075715756b0b9ce119cc6446280e9a80d98965a1c015ab092c09
     });
 
 /*]]>*/</script>
-", "@WebProfiler/Profiler/base_js.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/base_js.html.twig");
+", "@WebProfiler/Profiler/base_js.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/base_js.html.twig");
     }
 }

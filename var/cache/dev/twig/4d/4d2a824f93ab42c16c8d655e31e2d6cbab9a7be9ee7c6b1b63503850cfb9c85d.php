@@ -227,6 +227,6 @@ class __TwigTemplate_c3e7f2adbf272d6e48d1828c3a2c657f91a8f321f7ed9da164b5983e730
         </div>
     </form>
 </div>
-", "@WebProfiler/Profiler/search.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/search.html.twig");
+", "@WebProfiler/Profiler/search.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/search.html.twig");
     }
 }

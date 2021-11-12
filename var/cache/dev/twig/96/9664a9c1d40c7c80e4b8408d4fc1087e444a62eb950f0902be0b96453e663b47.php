@@ -1671,6 +1671,6 @@ class __TwigTemplate_3b0458a18faa25ee8250fa394b15702c2721153fe58eeb8c9a33d2f9fdc
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

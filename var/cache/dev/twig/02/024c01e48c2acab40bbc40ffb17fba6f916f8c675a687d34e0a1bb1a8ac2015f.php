@@ -1140,6 +1140,6 @@ class __TwigTemplate_879846855e84166573f12e3c47df0c4a4eabd2b91f206e6b95cf51aa266
 
 </body>
 </html>
-", "@ApiPlatform/GraphQlPlayground/index.html.twig", "/home/lebzodev/Public/symfony-projets/saMoney/Symfony/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/GraphQlPlayground/index.html.twig");
+", "@ApiPlatform/GraphQlPlayground/index.html.twig", "/home/lebzodev/Public/symfony-projets/Symfony/vendor/api-platform/core/src/Bridge/Symfony/Bundle/Resources/views/GraphQlPlayground/index.html.twig");
     }
 }
